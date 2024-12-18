@@ -113,9 +113,3 @@ The Quiz Game project is an educational tool and a fun game designed as part of 
 ---
 
 Thank you for checking out our project! Feel free to contribute by submitting pull requests or reporting issues.
-
----
-
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
