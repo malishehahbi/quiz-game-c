@@ -52,8 +52,8 @@ The Quiz Game project is an educational tool and a fun game designed as part of 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/quiz-game.git
-   cd quiz-game
+   https://github.com/malishehahbi/quiz-game-c.git
+   cd quiz-game-c
    ```
 
 2. Compile the server code:
@@ -107,8 +107,8 @@ The Quiz Game project is an educational tool and a fun game designed as part of 
 ---
 
 ## Contributors
-- **[MOHAMADALI ALCHIHABI](https://github.com/yourusername)** - Developer
-- **[SALIH ALMOBARAK](https://github.com/friendsusername)** - Developer
+- **[MOHAMADALI ALCHIHABI](https://github.com/malishehahbi)** 2210206509- Developer
+- **[SALIH ALMOBARAK](https://github.com/salih)** - Developer
 
 ---
 
