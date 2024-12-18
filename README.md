@@ -107,7 +107,7 @@ The Quiz Game project is an educational tool and a fun game designed as part of 
 ---
 
 ## Contributors
-- **[MOHAMADALI ALCHIHABI](https://github.com/malishehahbi)** -2210206509- Developer
+- **[MOHAMAD ALI ALCHIHABI](https://github.com/malishehahbi)** -2210206509- Developer
 - **[SALEH MUBARAK](https://github.com/)** -211020625- Developer
 
 ---
