@@ -52,7 +52,7 @@ The Quiz Game project is an educational tool and a fun game designed as part of 
 ### Steps
 1. Clone the repository:
    ```bash
-   https://github.com/malishehahbi/quiz-game-c.git
+   git clone https://github.com/malishehahbi/quiz-game-c.git
    cd quiz-game-c
    ```
 
